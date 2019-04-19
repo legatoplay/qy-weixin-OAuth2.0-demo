@@ -1,4 +1,6 @@
 >[官方API文档](https://open.work.weixin.qq.com/api/old/doc#10028/%E5%85%B3%E4%BA%8E%E7%BD%91%E9%A1%B5%E6%8E%88%E6%9D%83%E7%9A%84%E5%8F%AF%E4%BF%A1%E5%9F%9F%E5%90%8D)
+# 接入流程
+![](https://p.qpic.cn/pic_wework/4208501329/ebed29e092fda3841e56e191eba8ed7ae6775f7dffd75bed/0)
 # 菜单配置
 如果企业需要在打开的网页里面携带用户的身份信息，第一步需要构造如下的链接来获取code参数
 ```text
